@@ -29,11 +29,3 @@ pip install opencv-python moviepy pygame pillow
 3. **Play Video**: Plays the video in the Tkinter window and the audio via pygame.
 4. **Play Audio**: Plays only the MP3 audio.
 5. **Stop**: Stops any playing audio and clears the video frame.
-
-### Fun Notes
-
-- The quirky comments at the end (`# I love burned botatoes!`, `# Meow!!!`) are just for fun and have no effect on the code.
-
----
-
-If you want help with a specific part (adding features, fixing bugs, etc.), let me know!
